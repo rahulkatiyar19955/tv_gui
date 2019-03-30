@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>wall1.jpg</file>
+        <file>tarak.jpg</file>
+        <file>rounf_frame.jpg</file>
+        <file>grunge-circle-frame-6.png</file>
+        <file>OpacityMask_mask.png</file>
+        <file>output-onlinepngtools.png</file>
+        <file>main2.qml</file>
+        <file>IFrame.qml</file>
+        <file>IFrameForm.ui.qml</file>
+        <file>sport_e.png</file>
+        <file>news_e.png</file>
+        <file>music_e.png</file>
+        <file>movie_e.png</file>
+    </qresource>
+</RCC>
